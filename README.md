@@ -1,6 +1,7 @@
 # Here is Cai from the Ohio State University.
 
-## All of the repositories are currently not public. Please feel free to reach out if you want the code.
+## All of the repositories are currently not public. Please feel free to reach out if you want the code. 
+## email: cai.851@osu.edu
 
 ### 1. Mini-Apps
 
