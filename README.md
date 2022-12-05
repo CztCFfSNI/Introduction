@@ -17,4 +17,6 @@
 
 ### 6. Quandary Programming Language
 
+### 7. LeetCode notes
+
 ### etc.
