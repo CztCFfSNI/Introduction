@@ -19,6 +19,6 @@
 
 ### 7. Game to Reduce Pain and Anxiety in Digestive Disorders (2023new) | HTML5, CSS3, Typescript, PHP, MySql, Node.js
 
-### 8. Fitness Calendar (2023new) | Java, Firebase
+### 8. Fitness Calendar (2023new) | Java, Android Studio, Firebase
 
 ### 9. LeetCode notes
