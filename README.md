@@ -5,18 +5,22 @@
 
 ### Projects/Repo:
 
-### 1. Mini-Apps
+### 1. Mini-Apps | Python
 
-### 2. CI project
+### 2. CI project | Python, PostgreSQL
 
-### 3. Peer Evaluation Platform
+### 3. Peer Evaluation Platform | Ruby on Rails, HTML5, CSS3, JavaScript
 
-### 4. Set Game Website
+### 4. Set Game Website | HTML5, CSS3, JavaScript
 
-### 5. Bulletin Board System
+### 5. Bulletin Board System | Python
 
-### 6. Quandary Programming Language
+### 6. Quandary Programming Language | Java
 
-### 7. LeetCode notes
+### 7. Game to Reduce Pain and Anxiety in Digestive Disorders (2023new) | HTML5, CSS3, Typescript, PHP, MySql, Node.js
+
+### 8. Fitness Calendar (2023new) | Java, Kotlin, Firebase
+
+### 9. LeetCode notes
 
 ### etc.
