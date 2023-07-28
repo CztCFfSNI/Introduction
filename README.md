@@ -1,6 +1,6 @@
 # Here is Cai from Northwestern University.
 
-## Some of the repositories are currently not public due to the course content that needs to be kept privately. But, please feel free to reach out if you want the code and resume. 
+## Some of the repositories are currently not public due to the course content that needs to be kept private. But, please feel free to reach out if you want the code and resume. 
 ## email: jerrychoiczt@gmail.com
 
 ### Projects/Repo:
