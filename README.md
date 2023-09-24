@@ -17,8 +17,10 @@
 
 ### 6. Quandary Programming Language | Java
 
-### 7. Game to Reduce Pain and Anxiety in Digestive Disorders (2023new) | Typescript, PHP, MySql, Node.js
+### 7. Game to Reduce Pain and Anxiety in Digestive Disorders | Typescript, PHP, MySql, Node.js
 
-### 8. Fitness Calendar (2023new) | Java, Android Studio, Firebase
+### 8. Fitness Calendar | Java, Android Studio, Firebase
+
+### 9. Web App for Al Programming (2023 new) | Javascript
 
 ### 9. LeetCode notes
