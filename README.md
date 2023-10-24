@@ -23,6 +23,8 @@
 
 ### 9. Web App for Al Programming (2023 new) | Javascript
 
-### 10. SimpleDB Storage | Java
+### 10. PhotoApp - Cloud Asset Manager (2023 new) | AWS, Node.js, Express.js, Python, MySQL
 
-### 11. LeetCode notes
+### 11. SimpleDB Storage (2023 new) | Java
+
+### 12. LeetCode notes
