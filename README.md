@@ -25,6 +25,8 @@
 
 ### 10. PhotoApp - Cloud Asset Manager (2023 new) | AWS, Node.js, Express.js, Python, MySQL
 
-### 11. SimpleDB Storage (2023 new) | Java
+### 11. Advanced AWS Shopping Cart App (2023 new) | AWS, Node.js, Express.js, Python, MySQL
 
-### 12. LeetCode notes
+### 12. SimpleDB Storage (2023 new) | Java
+
+### 13. LeetCode notes
