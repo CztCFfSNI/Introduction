@@ -21,12 +21,14 @@
 
 ### 8. Fitness Calendar | Java, Android Studio, Firebase
 
-### 9. Web App for Al Programming (2023 new) | Javascript
+### 9. Web App for Al Programming | Javascript
 
-### 10. PhotoApp - Cloud Asset Manager (2023 new) | AWS, Node.js, Express.js, Python, MySQL
+### 10. PhotoApp - Cloud Asset Manager | AWS, Node.js, Express.js, Python, MySQL
 
-### 11. Advanced AWS Shopping Cart App (2023 new) | AWS, Node.js, Express.js, Python, MySQL
+### 11. Advanced AWS Shopping Cart App | AWS, Node.js, Express.js, Python, MySQL
 
-### 12. SimpleDB Storage (2023 new) | Java
+### 12. SimpleDB Storage | Java
 
-### 13. LeetCode notes
+### 13. Voyage (2024 new) | Node.js, React, Firebase
+
+### 14. LeetCode notes
