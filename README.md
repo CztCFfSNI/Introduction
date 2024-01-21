@@ -31,4 +31,6 @@
 
 ### 13. Voyage (2024 new) | Node.js, React, Firebase
 
-### 14. LeetCode notes
+### 14. Towards Automatic Penetration Testing with LLMs (2024 new) | Python
+
+### 15. LeetCode notes
