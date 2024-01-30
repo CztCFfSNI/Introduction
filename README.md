@@ -14,70 +14,70 @@
 <ul>
   <li>
     <p style="font-size:1vw">Mini-Apps Crawler</p> 
-    <img class="skill-icon" src="https://skillicons.dev/icons?i=py" alt="Python">
+    <img class="skill-icon" src="https://skillicons.dev/icons?i=py" alt="Python" style="width: 40px; height: 40px;">
   </li>
   <li>
     <p style="font-size:1vw">Cyberinfrastructure with Environmental Science</p>
-    <img class="skill-icon" src="https://skillicons.dev/icons?i=py" alt="Python">
-    <img class="skill-icon" src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL">
+    <img class="skill-icon" src="https://skillicons.dev/icons?i=py" alt="Python" style="width: 40px; height: 40px;">
+    <img class="skill-icon" src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" style="width: 40px; height: 40px;">
   </li>
   <li>
     <p style="font-size:1vw">Peer Evaluation Platform</p>
-    <img class="skill-icon" src="https://skillicons.dev/icons?i=ruby" alt="Ruby">
-    <img class="skill-icon" src="https://skillicons.dev/icons?i=html" alt="HTML">
-    <img class="skill-icon" src="https://skillicons.dev/icons?i=css" alt="CSS">
-    <img class="skill-icon" src="https://skillicons.dev/icons?i=js" alt="JavaScript">
+    <img class="skill-icon" src="https://skillicons.dev/icons?i=ruby" alt="Ruby" style="width: 40px; height: 40px;">
+    <img class="skill-icon" src="https://skillicons.dev/icons?i=html" alt="HTML" style="width: 40px; height: 40px;">
+    <img class="skill-icon" src="https://skillicons.dev/icons?i=css" alt="CSS" style="width: 40px; height: 40px;">
+    <img class="skill-icon" src="https://skillicons.dev/icons?i=js" alt="JavaScript" style="width: 40px; height: 40px;">
   </li>
   <li><p style="font-size:1vw">Set Game Website | HTML5, CSS3, JavaScript</p>
-    <img class="skill-icon" src="https://skillicons.dev/icons?i=html" alt="HTML">
-    <img class="skill-icon" src="https://skillicons.dev/icons?i=css" alt="CSS">
-    <img class="skill-icon" src="https://skillicons.dev/icons?i=js" alt="JavaScript">
+    <img class="skill-icon" src="https://skillicons.dev/icons?i=html" alt="HTML" style="width: 40px; height: 40px;">
+    <img class="skill-icon" src="https://skillicons.dev/icons?i=css" alt="CSS" style="width: 40px; height: 40px;">
+    <img class="skill-icon" src="https://skillicons.dev/icons?i=js" alt="JavaScript" style="width: 40px; height: 40px;">
   </li>
   <li><p style="font-size:1vw">Bulletin Board System</p>
-    <img class="skill-icon" src="https://skillicons.dev/icons?i=py" alt="Python">
+    <img class="skill-icon" src="https://skillicons.dev/icons?i=py" alt="Python" style="width: 40px; height: 40px;">
   </li>
   <li><p style="font-size:1vw">Quandary Programming Language</P>
-    <img class="skill-icon" src="https://skillicons.dev/icons?i=java" alt="Java"></li>
+    <img class="skill-icon" src="https://skillicons.dev/icons?i=java" alt="Java" style="width: 40px; height: 40px;"></li>
   <li><p style="font-size:1vw">Game to Reduce Pain and Anxiety in Digestive Disorders</p>
-    <img class="skill-icon" src="https://skillicons.dev/icons?i=ts" alt="Ts">
-    <img class="skill-icon" src="https://skillicons.dev/icons?i=php" alt="PHP">
-    <img class="skill-icon" src="https://skillicons.dev/icons?i=mysql" alt="Mysql">
-    <img class="skill-icon" src="https://skillicons.dev/icons?i=nodejs" alt="Node">
-    <img class="skill-icon" src="https://skillicons.dev/icons?i=azure" alt="Azure">
+    <img class="skill-icon" src="https://skillicons.dev/icons?i=ts" alt="Ts" style="width: 40px; height: 40px;">
+    <img class="skill-icon" src="https://skillicons.dev/icons?i=php" alt="PHP" style="width: 40px; height: 40px;">
+    <img class="skill-icon" src="https://skillicons.dev/icons?i=mysql" alt="Mysql" style="width: 40px; height: 40px;">
+    <img class="skill-icon" src="https://skillicons.dev/icons?i=nodejs" alt="Node" style="width: 40px; height: 40px;">
+    <img class="skill-icon" src="https://skillicons.dev/icons?i=azure" alt="Azure" style="width: 40px; height: 40px;">
   </li>
   <li><p style="font-size:1vw">Fitness Calendar</p>
-    <img class="skill-icon" src="https://skillicons.dev/icons?i=java" alt="Java">
-    <img class="skill-icon" src="https://skillicons.dev/icons?i=androidstudio" alt="Android">
-    <img class="skill-icon" src="https://skillicons.dev/icons?i=firebase" alt="Firebase">
+    <img class="skill-icon" src="https://skillicons.dev/icons?i=java" alt="Java" style="width: 40px; height: 40px;">
+    <img class="skill-icon" src="https://skillicons.dev/icons?i=androidstudio" alt="Android" style="width: 40px; height: 40px;">
+    <img class="skill-icon" src="https://skillicons.dev/icons?i=firebase" alt="Firebase" style="width: 40px; height: 40px;">
   </li>
   <li><p style="font-size:1vw">Web App for Al Programming</p>
-    <img class="skill-icon" src="https://skillicons.dev/icons?i=js" alt="JavaScript">
+    <img class="skill-icon" src="https://skillicons.dev/icons?i=js" alt="JavaScript" style="width: 40px; height: 40px;">
   </li>
   <li><p style="font-size:1vw">PhotoApp - Cloud Asset Manager</p>
-    <img class="skill-icon" src="https://skillicons.dev/icons?i=aws" alt="AWS">
-    <img class="skill-icon" src="https://skillicons.dev/icons?i=nodejs" alt="Node">
-    <img class="skill-icon" src="https://skillicons.dev/icons?i=express" alt="Express">
-    <img class="skill-icon" src="https://skillicons.dev/icons?i=py" alt="Python">
-    <img class="skill-icon" src="https://skillicons.dev/icons?i=mysql" alt="Mysql">
+    <img class="skill-icon" src="https://skillicons.dev/icons?i=aws" alt="AWS" style="width: 40px; height: 40px;">
+    <img class="skill-icon" src="https://skillicons.dev/icons?i=nodejs" alt="Node" style="width: 40px; height: 40px;">
+    <img class="skill-icon" src="https://skillicons.dev/icons?i=express" alt="Express" style="width: 40px; height: 40px;">
+    <img class="skill-icon" src="https://skillicons.dev/icons?i=py" alt="Python" style="width: 40px; height: 40px;">
+    <img class="skill-icon" src="https://skillicons.dev/icons?i=mysql" alt="Mysql" style="width: 40px; height: 40px;">
   </li>
   <li><p style="font-size:1vw">Advanced AWS Shopping Cart App</p>
-    <img class="skill-icon" src="https://skillicons.dev/icons?i=aws" alt="AWS">
-    <img class="skill-icon" src="https://skillicons.dev/icons?i=nodejs" alt="Node">
-    <img class="skill-icon" src="https://skillicons.dev/icons?i=express" alt="Express">
-    <img class="skill-icon" src="https://skillicons.dev/icons?i=py" alt="Python">
-    <img class="skill-icon" src="https://skillicons.dev/icons?i=mysql" alt="Mysql">
+    <img class="skill-icon" src="https://skillicons.dev/icons?i=aws" alt="AWS" style="width: 40px; height: 40px;">
+    <img class="skill-icon" src="https://skillicons.dev/icons?i=nodejs" alt="Node" style="width: 40px; height: 40px;">
+    <img class="skill-icon" src="https://skillicons.dev/icons?i=express" alt="Express" style="width: 40px; height: 40px;">
+    <img class="skill-icon" src="https://skillicons.dev/icons?i=py" alt="Python" style="width: 40px; height: 40px;">
+    <img class="skill-icon" src="https://skillicons.dev/icons?i=mysql" alt="Mysql" style="width: 40px; height: 40px;">
   </li>
   <li><p style="font-size:1vw">SimpleDB Storage</P>
-    <img class="skill-icon" src="https://skillicons.dev/icons?i=java" alt="Java">
-    <img class="skill-icon" src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL">
+    <img class="skill-icon" src="https://skillicons.dev/icons?i=java" alt="Java" style="width: 40px; height: 40px;">
+    <img class="skill-icon" src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" style="width: 40px; height: 40px;">
   </li>
   <li><p style="font-size:1vw"><b>Voyage (2024 new)</b></p>
-    <img class="skill-icon" src="https://skillicons.dev/icons?i=nodejs" alt="Node">
-    <img class="skill-icon" src="https://skillicons.dev/icons?i=react" alt="React">
-    <img class="skill-icon" src="https://skillicons.dev/icons?i=firebase" alt="Firebase">
+    <img class="skill-icon" src="https://skillicons.dev/icons?i=nodejs" alt="Node" style="width: 40px; height: 40px;">
+    <img class="skill-icon" src="https://skillicons.dev/icons?i=react" alt="React" style="width: 40px; height: 40px;">
+    <img class="skill-icon" src="https://skillicons.dev/icons?i=firebase" alt="Firebase" style="width: 40px; height: 40px;">
   </li>
   <li><p style="font-size:1vw"><b>Towards Automatic Penetration Testing with LLMs (2024 new)</b></p>
-    <img class="skill-icon" src="https://skillicons.dev/icons?i=py" alt="Python">
+    <img class="skill-icon" src="https://skillicons.dev/icons?i=py" alt="Python" style="width: 40px; height: 40px;">
   </li>
   <li><p style="font-size:1vw">LeetCode notes</li>
 </ul>
