@@ -2,12 +2,9 @@
 
 <p>This is Zitao Cai from Northwestern University.</p>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zitaocai)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jerrychoiczt@gmail.com)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CztCFfSNI)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/CztCFfSNI/)
-
 <p>Some of the repositories are currently not public due to the course content that needs to be kept private. But, please feel free to reach out if you want the code and resume. </p>
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jerrychoiczt@gmail.com)
 
 <h2>Projects/Repo:</h2>
 
