@@ -82,13 +82,13 @@
   <li><p style="font-size:1vw">LeetCode notes</li>
 </ul>
 
-<style>
+<!-- <style>
   .skill-icon {
     width: 40px;
     height: 40px;
-    margin-right: 5px; /* Adjust the right margin as needed */
+    margin-right: 5px; 
   }
-</style>
+</style> -->
 
 <!-- ### 1. Mini-Apps Crawler | Python
 
