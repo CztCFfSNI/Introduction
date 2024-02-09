@@ -25,7 +25,7 @@
     <img class="skill-icon" src="https://skillicons.dev/icons?i=css" alt="CSS" style="width: 40px; height: 40px;">
     <img class="skill-icon" src="https://skillicons.dev/icons?i=js" alt="JavaScript" style="width: 40px; height: 40px;">
   </li>
-  <li><p style="font-size:1vw">Set Game Website | HTML5, CSS3, JavaScript</p>
+  <li><p style="font-size:1vw">Set Game Web</p>
     <img class="skill-icon" src="https://skillicons.dev/icons?i=html" alt="HTML" style="width: 40px; height: 40px;">
     <img class="skill-icon" src="https://skillicons.dev/icons?i=css" alt="CSS" style="width: 40px; height: 40px;">
     <img class="skill-icon" src="https://skillicons.dev/icons?i=js" alt="JavaScript" style="width: 40px; height: 40px;">
