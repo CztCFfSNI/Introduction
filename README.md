@@ -73,7 +73,7 @@
     <img class="skill-icon" src="https://skillicons.dev/icons?i=react" alt="React" style="width: 40px; height: 40px;">
     <img class="skill-icon" src="https://skillicons.dev/icons?i=firebase" alt="Firebase" style="width: 40px; height: 40px;">
   </li>
-  <li><p style="font-size:1vw"><b>Towards Automatic Penetration Testing with LLMs (2024 new)</b></p>
+  <li><p style="font-size:1vw"><b>PTGPT: Towards Automatic Penetration Testing with LLMs (2024 new)</b></p>
     <img class="skill-icon" src="https://skillicons.dev/icons?i=py" alt="Python" style="width: 40px; height: 40px;">
   </li>
   <li><p style="font-size:1vw"><b>GiftGuru (2024 new)</b></p>
