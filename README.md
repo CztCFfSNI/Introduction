@@ -78,23 +78,35 @@
     <img class="skill-icon" src="https://skillicons.dev/icons?i=java" alt="Java" style="width: 40px; height: 40px;">
     <img class="skill-icon" src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" style="width: 40px; height: 40px;">
   </li>
-  <li><p style="font-size:1vw"><b>Voyage (2024 new)</b></p>
+  <li><p style="font-size:1vw"><b>Voyage</b></p>
     <img class="skill-icon" src="https://skillicons.dev/icons?i=nodejs" alt="Node" style="width: 40px; height: 40px;">
     <img class="skill-icon" src="https://skillicons.dev/icons?i=react" alt="React" style="width: 40px; height: 40px;">
     <img class="skill-icon" src="https://skillicons.dev/icons?i=firebase" alt="Firebase" style="width: 40px; height: 40px;">
   </li>
-  <li><p style="font-size:1vw"><b>PTGPT: Towards Automatic Penetration Testing with LLMs (2024 new)</b></p>
+  <li><p style="font-size:1vw"><b>PTGPT: Towards Automatic Penetration Testing with LLMs</b></p>
     <img class="skill-icon" src="https://skillicons.dev/icons?i=py" alt="Python" style="width: 40px; height: 40px;">
   </li>
-  <li><p style="font-size:1vw"><b>GiftGuru (2024 new)</b></p>
+  <li><p style="font-size:1vw"><b>GiftGuru</b></p>
     <img class="skill-icon" src="https://skillicons.dev/icons?i=nodejs" alt="Node" style="width: 40px; height: 40px;">
     <img class="skill-icon" src="https://skillicons.dev/icons?i=react" alt="React" style="width: 40px; height: 40px;">
     <img class="skill-icon" src="https://skillicons.dev/icons?i=firebase" alt="Firebase" style="width: 40px; height: 40px;">
   </li>
-  <li><p style="font-size:1vw"><b>ChatVU (2024 new)</b></p>
+  <li><p style="font-size:1vw"><b>ChatVU</b></p>
     <img class="skill-icon" src="https://skillicons.dev/icons?i=nodejs" alt="Node" style="width: 40px; height: 40px;">
     <img class="skill-icon" src="https://skillicons.dev/icons?i=react" alt="React" style="width: 40px; height: 40px;">
     <img class="skill-icon" src="https://skillicons.dev/icons?i=vercel" alt="Vercel" style="width: 40px; height: 40px;">
+  </li>
+  <li><p style="font-size:1vw"><b>Splity</b></p>
+    <img class="skill-icon" src="https://skillicons.dev/icons?i=nextjs" alt="Next" style="width: 40px; height: 40px;">
+    <img class="skill-icon" src="https://skillicons.dev/icons?i=react" alt="React" style="width: 40px; height: 40px;">
+    <img class="skill-icon" src="https://skillicons.dev/icons?i=aws" alt="AWS" style="width: 40px; height: 40px;">
+    <img class="skill-icon" src="https://skillicons.dev/icons?i=dynamodb" alt="Dynamodb" style="width: 40px; height: 40px;">
+    <img class="skill-icon" src="https://skillicons.dev/icons?i=vercel" alt="Vercel" style="width: 40px; height: 40px;">
+  </li>
+  <li><p style="font-size:1vw"><b>Petly</b></p>
+    <img class="skill-icon" src="https://skillicons.dev/icons?i=nextjs" alt="Next" style="width: 40px; height: 40px;">
+    <img class="skill-icon" src="https://skillicons.dev/icons?i=react" alt="React" style="width: 40px; height: 40px;">
+    <img class="skill-icon" src="https://skillicons.dev/icons?i=firebase" alt="Firebase" style="width: 40px; height: 40px;">
   </li>
   <li><p style="font-size:1vw">LeetCode notes</li>
 </ul>
